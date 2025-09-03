@@ -32,6 +32,9 @@ I use programming as a tool to build games, apps, and explore different problem-
   <a href="https://github.com/eburakmataraci/MovieApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eburakmataraci&repo=MovieApp&theme=tokyonight" />
   </a>
+  <a href="https://github.com/eburakmataraci/MovieApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eburakmataraci&repo=Compare&theme=tokyonight" />
+  </a>
 </p>
 
 ---
